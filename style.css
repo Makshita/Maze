@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:#FFEFE5;
+}
+canvas{
+  border: 2px solid black;
+}
+h1{
+  text-align: center;
+  margin-top: 10%;
+}
+img{
+  margin-left: 50%;
+}
+h2{
+  text-align: center;
+}
